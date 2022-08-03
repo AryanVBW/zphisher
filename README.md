@@ -90,19 +90,5 @@ $ docker run --rm -it htrtech/zphisher
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**Yisus7u7**](https://github.com/Yisus7u7)
-- [**sepp0**](https://github.com/sepp0)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
-
-
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
-</p>
+- [**WhiteDevil**](whitedevil367467@gmail.com)
 
