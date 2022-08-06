@@ -1,10 +1,6 @@
 <!-- vaphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
-</p>
-
-<p align="center">
   
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
