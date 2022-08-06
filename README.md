@@ -31,8 +31,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
-
+  - Cloudflared (Alternative of Ngrok) 
+  ######©2022****Aryan****©2022#####
 
 ### Installation
 
@@ -41,29 +41,24 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone https://github.com/ARYAN122333/vaphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `vaphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd vaphisher
+$ bash vaphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`vaphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `vaphisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
