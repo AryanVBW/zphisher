@@ -34,7 +34,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 Get - Download and Extract the latest release from [HERE](https://github.com/AryanVBW/zphisher/releases/download/v2.1.0/zphisher.zip)
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/ARYAN122333/vaphisher.git
+$ wget https://github.com/AryanVBW/zphisher/releases/download/v2.1.0/zphisher.zip
 ```
 $ wget https://github.com/AryanVBW/zphisher/releases/download/v2.1.0/zphisher.zip
 
