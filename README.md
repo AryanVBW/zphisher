@@ -36,6 +36,7 @@ Get - Download and Extract the latest release from [HERE](https://github.com/Ary
 ```
 $ git clone https://github.com/ARYAN122333/vaphisher.git
 ```
+$ wget https://github.com/AryanVBW/zphisher/releases/download/v2.1.0/zphisher.zip
 
 - Change to cloned directory and run `vaphisher.sh` -
 ```
