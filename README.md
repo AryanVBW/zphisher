@@ -40,8 +40,8 @@ $ unzip zphisher.sh
 ```
 - Change to cloned directory and run `vaphisher.sh` -
 ```
-$ cd vaphisher
-$ bash vaphisher.sh
+$ cd zphisher
+$ bash zphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
@@ -49,7 +49,7 @@ $ bash vaphisher.sh
 
 ### Dependencies
 
-**`vaphisher`** requires following programs to run properly - 
+**`zphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
