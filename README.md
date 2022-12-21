@@ -1,6 +1,6 @@
 <!-- vaphisher -->
 <p align="center">
-<img src="https://github.com/ARYAN122333/L3MON/blob/main/logo.png" height="60"><br>
+<img src="https://github.com/ARYAN122333/L3MON/blob/main/logo.png" height="100"><br>
 A @Zphisher , powered by *Aryan*
 </p>
 <p align="center">
